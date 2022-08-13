@@ -1,3 +1,6 @@
+![Followers](https://img.shields.io/github/followers/AN0NCER?label=Followers)
+![Stars](https://img.shields.io/github/stars/AN0NCER?label=Stars)
+
 ### Anôncer
 
 What languages do I know: **`csharp`** **`javascript`** **`php`** **`mysql`** and something else.
