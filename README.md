@@ -3,6 +3,10 @@
 
 ### Anôncer
 
+<a href="https://www.buymeacoffee.com/anoncer">
+<img src="./btnlogosup.png" height="45" align="right" />
+<a/>
+
 What languages do I know: **`csharp`** **`javascript`** **`php`** **`mysql`** and something else.
 
 - 🔭  I’m currently working on [**guard**](https://github.com/AN0NCER/guard)
