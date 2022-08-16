@@ -1,10 +1,11 @@
-<a align="right" href="https://www.buymeacoffee.com/anoncer">
-<img src="./btnlogosup.png" height="45" align="right" />
-<a/>
+<sup>
+  <a align="right" href="https://www.buymeacoffee.com/anoncer">
+    <img src="./btnlogosup.png" height="45" align="right" />
+  <a/>
+</sup>
 
-
-![Followers](https://img.shields.io/github/followers/AN0NCER?label=Followers)
-![Stars](https://img.shields.io/github/stars/AN0NCER?label=Stars)
+<sup>![Followers](https://img.shields.io/github/followers/AN0NCER?label=Followers)</sup>
+<sup>![Stars](https://img.shields.io/github/stars/AN0NCER?label=Stars)</sup>
 
 
 ### Anôncer
