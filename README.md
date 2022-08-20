@@ -8,7 +8,7 @@ What languages do I know: **`csharp`** **`javascript`** **`php`** **`mysql`** an
 
 - 🔭  I’m currently working on [**guard**](https://github.com/AN0NCER/guard)
 
-<sup>My accomplice [**Ch-Tima**](https://github.com/Ch-Tima)</sup>
+<sup>You can help [by me coffe](https://ko-fi.com/anoncer)</sup>
 
 <!--
 **AN0NCER/AN0NCER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
