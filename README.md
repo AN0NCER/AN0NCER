@@ -10,7 +10,7 @@ What languages do I know: **`csharp`** **`javascript`** **`php`** **`mysql`** an
 
 <sup>You can help [**by me coffe**](https://ko-fi.com/anoncer) </sup><sup>Big project coming soon!</sup>
 
-**`electron` `node` `c#` `net` `net maui` `xamarin` `php` `javascript` `nuget` `xaml` `web` `api`**
+**`electron` `node` `c#` `net` `net maui` `xamarin` `php` `javascript` `nuget` `xaml` `web` `api` `mysql`**
 <!--
 **AN0NCER/AN0NCER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
