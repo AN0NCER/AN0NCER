@@ -17,8 +17,25 @@
 </p>
 
 <p>
+  
+</p>
+
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
         <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
   </picture>
-</p>
+  <a href="#">
+    
+  </a>
+</div>
+
+<div align="center" width="100em">
+  <div width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  </div>
+  <div width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  </div>
+</div>
