@@ -1,3 +1,6 @@
+<img src="./git.png" />
+
+
 ### Anôncer
 
 What languages do I know: **`csharp`** **`javascript`** **`php`** **`mysql`** and something else.
