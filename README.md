@@ -27,3 +27,5 @@
   </picture>
   </sup>
 </div>
+
+<img align="center" src="https://count.getloli.com/get/@:An0ncer" alt=":AN0NCER" />
