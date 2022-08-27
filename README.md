@@ -101,5 +101,3 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
             alt="xamarin" width="40" height="40" />  </p>
-            
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an0ncer&show_icons=true&locale=en&layout=compact" alt="an0ncer" /></p>
