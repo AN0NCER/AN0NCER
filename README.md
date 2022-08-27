@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <img src="./git-bg.png"/>
 
 
@@ -16,9 +21,29 @@
 </picture>
 </p>
 
+
+
+
+<table>
+<tbody>
+<tr>
+<td align="center">
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
   </picture>
-</p>
+      </p>
+      </td>
+        <td align="center">
+         <p align="center">
+           <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact">
+            <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact" >
+          </picture>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
