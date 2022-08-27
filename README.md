@@ -9,9 +9,6 @@
 
 **`electron` `node` `c#` `net` `net maui` `xamarin` `php` `javascript` `nuget` `xaml` `web` `api` `mysql` `python`**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Anoncer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Anoncer" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an0ncer&show_icons=true&locale=en&layout=compact" alt="an0ncer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&locale=en" alt="an0ncer" /></p>
