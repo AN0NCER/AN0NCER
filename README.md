@@ -26,12 +26,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
         <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
   </picture>
-  <a href="#">
-    
-  </a>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
+  </div>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
-</div>
+![:AN0NCER](https://count.getloli.com/get/@:AN0NCER?theme=gelbooru-h)
+
