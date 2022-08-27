@@ -20,5 +20,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
         <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" width="50%" >
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact&hide_border=true" width="41%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact&hide_border=true&bg_color=DD272700&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact&hide_border=true" width="35%" />
+  </picture>
 </div>
