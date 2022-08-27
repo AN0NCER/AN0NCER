@@ -22,6 +22,3 @@
   </picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact" width="49%" />
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
