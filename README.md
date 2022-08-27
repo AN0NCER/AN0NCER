@@ -15,22 +15,13 @@
   <img alt="My Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AN0NCER&hide_border=true">
 </picture>
 </p>
-
-<p>
-  
-</p>
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" width="49%" >
   </picture>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact" width="49%" />
 </div>
 
-![:AN0NCER](https://count.getloli.com/get/@:AN0NCER?theme=gelbooru-h)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0ncer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
