@@ -9,7 +9,7 @@
 
 **`electron` `node` `c#` `net` `net maui` `xamarin` `php` `javascript` `nuget` `xaml` `web` `api` `mysql` `python`**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AN0NCER&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AN0NCER&hide_border=true#gh-light-mode-only)
 
 ### My Skills
 
