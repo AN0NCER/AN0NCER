@@ -1,4 +1,4 @@
-<img src="./Git.png"/>
+<img src="./git-bg.png"/>
 
 
 ### Anôncer
