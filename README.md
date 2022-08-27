@@ -16,4 +16,9 @@
 </picture>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AN0NCER&left_color=green&right_color=red)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true&theme=dark">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=an0ncer&show_icons=true&bg_color=DD272700&hide_border=true" >
+  </picture>
+</p>
