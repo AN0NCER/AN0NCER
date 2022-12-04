@@ -8,14 +8,26 @@
 <sup>You can help [**by me coffe**](https://ko-fi.com/anoncer) </sup><sup>Big project coming soon!</sup>
 
 My pwa apps:
-- 📺 [**Tunime**](https://an0ncer.github.io/)
+- 📺 [**Tunime**](https://an0ncer.github.io/) `🔗 Url: https://an0ncer.github.io`
 
-<sup>`🔗 Url: https://an0ncer.github.io`</sup>
+![](https://img.shields.io/github/v/release/AN0NCER/an0ncer.github.io) ![](https://img.shields.io/badge/Description-Watch%20anime%20online-brightgreen)
+
 - 🖥️ [**Roku Stream**](https://roku-mobile.github.io/)
 
 <sup>`🔗 Url: https://roku-mobile.github.io`</sup>
 
-**`electron` `node` `c#` `net` `net maui` `xamarin` `php` `javascript` `nuget` `xaml` `web` `api` `mysql` `python` `pwa`**
+![](https://img.shields.io/badge/-PWA-informational?style=for-the-badge&logo=pwa) 
+![](https://img.shields.io/badge/-NODEJS-fff?style=for-the-badge&logo=node.js) 
+![](https://img.shields.io/badge/-Csharp-informational?style=for-the-badge&logo=csharp) 
+![](https://img.shields.io/badge/-php-fff?style=for-the-badge&logo=php) 
+![](https://img.shields.io/badge/-javascript-informational?style=for-the-badge&logo=javascript) 
+![](https://img.shields.io/badge/-Xamarin-fff?style=for-the-badge&logo=xamarin)
+![](https://img.shields.io/badge/-nuget-informational?style=for-the-badge&logo=nuget)
+![](https://img.shields.io/badge/-api-fff?style=for-the-badge&logo=postman)
+![](https://img.shields.io/badge/-xaml-informational?style=for-the-badge&logo=xaml)
+![](https://img.shields.io/badge/-mysql-fff?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/-electron-fff?style=for-the-badge&logo=electron)
 
 <p align="center">
 <picture>
