@@ -5,8 +5,6 @@
 
 - 🔭  I’m currently working on [**guard**](https://github.com/AN0NCER/guard)
 
-<sup>You can help [**by me coffe**](https://ko-fi.com/anoncer) </sup><sup>Big project coming soon!</sup>
-
 My pwa apps:
 - 📺 [**Tunime**](https://an0ncer.github.io/) `🔗 Url: https://an0ncer.github.io`
 
@@ -54,3 +52,5 @@ My pwa apps:
 <div align="center">
   <img align="center" src="https://count.getloli.com/get/@:An0ncer" alt=":AN0NCER" />
 </div>
+
+<sup>You can help [**by me coffe**](https://ko-fi.com/anoncer) </sup><sup>Big project coming soon!</sup>
