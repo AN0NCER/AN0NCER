@@ -3,16 +3,10 @@
 
 <h1>Anôncer</h1>
 
-- 🔭  I’m currently working on [**guard**](https://github.com/AN0NCER/guard)
-
 My pwa apps:
 - 📺 [**Tunime**](https://an0ncer.github.io/) `🔗 Url: https://an0ncer.github.io`
 
 ![](https://img.shields.io/github/v/release/AN0NCER/an0ncer.github.io) ![](https://img.shields.io/badge/Description-Watch%20anime%20online-brightgreen)
-
-- 🖥️ [**Roku Stream**](https://roku-mobile.github.io/)
-
-<sup>`🔗 Url: https://roku-mobile.github.io`</sup>
 
 ![](https://img.shields.io/badge/-PWA-informational?style=for-the-badge&logo=pwa) 
 ![](https://img.shields.io/badge/-NODEJS-fff?style=for-the-badge&logo=node.js) 
