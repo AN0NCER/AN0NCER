@@ -27,6 +27,7 @@ My pwa apps:
 ![](https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-electron-fff?style=for-the-badge&logo=electron)
 ![](https://img.shields.io/badge/-sass-informational?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/-firebase-fff?style=for-the-badge&logo=firebase)
 
 <p align="center">
 <picture>
